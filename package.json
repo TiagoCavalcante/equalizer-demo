@@ -1,0 +1,40 @@
+{
+  "name": "equalizer-demo",
+  "version": "1.0.0",
+  "description": "A equalizer using r3f-equalizer and leva controllers",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiagoCavalcante/equalizer-demo.git"
+  },
+  "keywords": [
+    "equalizer",
+    "leva",
+    "react"
+  ],
+  "author": "Tiago Cavalcante <tiagotrindade111@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "r3f-equalizer": "^1.4.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/react-dom": "^18.0.9"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
